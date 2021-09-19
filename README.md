@@ -2,7 +2,7 @@ MSc in Geospatial Technologies/ Master thesis repository
 =
 
 [![made-with-javascript](https://img.shields.io/badge/Coded%20with-javascript-21496b.svg?style=flat-square)](https://www.javascript.com/)
-[![made-with-latex](https://img.shields.io/badge/Documented%20with-LaTeX-4c9843.svg?style=flat-square)](https://www.latex-project.org/) ![GitHub repo size](https://img.shields.io/github/repo-size/Ponsoda/GEOTECH-master-thesis-vehicle-position?style=flat-square) ![GitHub](https://img.shields.io/github/license/Ponsoda/GEOTECH-master-thesis-vehicle-position?style=flat-square) ![Maintenance](https://img.shields.io/maintenance/yes/2019?style=flat-square)
+[![made-with-latex](https://img.shields.io/badge/Documented%20with-LaTeX-4c9843.svg?style=flat-square)](https://www.latex-project.org/) ![GitHub repo size](https://img.shields.io/github/repo-size/Ponsoda/GEOTECH-master-thesis-vehicle-position?style=flat-square) ![GitHub](https://img.shields.io/github/license/Ponsoda/GEOTECH-master-thesis-vehicle-position?style=flat-square) ![Maintenance](https://img.shields.io/maintenance/yes/2020?style=flat-square)
 
 ---
 
