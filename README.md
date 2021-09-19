@@ -14,7 +14,27 @@ Supervisors: **Dr. Joaquin Huerta** Department of Information Systems at Univers
 
 ---
 
-Four JavaScript scripts
+# Abstract
+
+Public bus fleet location data has emerged in the last years as an affordable opportunity
+for local governments to monitor the city traffic. However, the speed data
+calculated from the location of the public bus fleet tend to be affected by bus stops,
+Consequently, the inclination on this field is to discard the speed affected by bus stops
+for traffic monitoring. Several approaches have been developed to identify the bus
+data affected by bus stops.
+In this work, the effect on traffic monitoring of bus location data affected by a
+bus stop is tested through a case study in La Castellana, one of the main arteries
+of Madrid -the capital city of Spain-, by using data of its public urban transport
+company, the Empresa Municipal de Transportes (EMT).
+The analysis of the results concludes that the use of public bus fleet location data
+affected by bus stops has a bias effect on traffic monitoring. However, it also concludes
+that this bias effect is mainly caused by the buses dropping or collecting passengers.
+Keywords: probe vehicle, location data, traffic monitoring, public bus fleet
+
+
+# Code
+
+The repository contains four JavaScript scripts
   * Data collection
   * Speed calculation
   * Secctions assignation
@@ -22,3 +42,6 @@ Four JavaScript scripts
 Data collected from https://mobilitylabs.emtmadrid.es/ with the speed calculated
 R code for the data exploration + two shiny applications for visualize the results
 
+---
+
+You can find the documment [here](https://run.unl.pt/bitstream/10362/96488/1/TGEO0232.pdf).
