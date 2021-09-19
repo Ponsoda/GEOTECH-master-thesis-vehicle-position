@@ -34,13 +34,13 @@ Keywords: probe vehicle, location data, traffic monitoring, public bus fleet
 
 # Code
 
-The repository contains [four JavaScript scripts](https://github.com/Ponsoda/GEOTECH-master-thesis-vehicle-position/tree/master/js)
+The repository contains [four JavaScript scripts](https://github.com/Ponsoda/GEOTECH-master-thesis-vehicle-position/tree/master/src/js)
   * Data collection
   * Speed calculation
   * Secctions assignation
   * Stops assignation
   
-Also an [R code](https://github.com/Ponsoda/GEOTECH-master-thesis-vehicle-position/blob/master/TFM_RScript.R) for the data exploration + two shiny applications for visualize the results
+Also an [R code](https://github.com/Ponsoda/src/R/GEOTECH-master-thesis-vehicle-position/blob/master/TFM_RScript.R) for the data exploration + two shiny applications for visualize the results
 
 *Data collected from https://mobilitylabs.emtmadrid.es/
 
